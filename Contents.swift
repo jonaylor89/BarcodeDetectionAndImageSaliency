@@ -111,7 +111,7 @@ barcodeTestImage.detectBarcodes { barcodes in
     }
 }
 
-let saliencyTestImage = UIImage(named: "test.jpg")!
+let saliencyTestImage = UIImage(named: "test3.jpg")!
 let thumbnailSize = CGSize(width: 80, height: 80)
 
 var attentionCrop: UIImage?

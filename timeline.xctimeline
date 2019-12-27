@@ -3,7 +3,17 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/johannes/Repos/BarcodeDetection.playground#CharacterRangeLen=16&amp;CharacterRangeLoc=3436&amp;EndingColumnNumber=21&amp;EndingLineNumber=106&amp;StartingColumnNumber=5&amp;StartingLineNumber=106&amp;Timestamp=599115486.4073319"
+         documentLocation = "file:///Users/johannes/Repos/BarcodeDetection.playground#CharacterRangeLen=16&amp;CharacterRangeLoc=3436&amp;EndingColumnNumber=21&amp;EndingLineNumber=106&amp;StartingColumnNumber=5&amp;StartingLineNumber=106&amp;Timestamp=599115728.547683"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/johannes/Repos/BarcodeDetection.playground#CharacterRangeLen=58&amp;CharacterRangeLoc=4415&amp;EndingColumnNumber=0&amp;EndingLineNumber=136&amp;StartingColumnNumber=19&amp;StartingLineNumber=135&amp;Timestamp=599115728.547842"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/johannes/Repos/BarcodeDetection.playground#CharacterRangeLen=58&amp;CharacterRangeLoc=4003&amp;EndingColumnNumber=0&amp;EndingLineNumber=126&amp;StartingColumnNumber=21&amp;StartingLineNumber=125&amp;Timestamp=599115728.547974"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
